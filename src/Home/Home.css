@@ -1,0 +1,25 @@
+.homeHeading{
+    color:#CF4A72;
+    margin-left: 27%;
+    margin-top: 0.1%;
+    font-size: 20px;
+}
+
+
+.homeHorizontalLine{
+    color: #CF4A72;
+    width: 100%;
+    border: 1px;
+    border-style: solid;
+    border-color: grey; 
+}
+
+.homeHeader{
+ 
+    margin-bottom: 2%;
+    padding-top: 0.2%;
+}
+
+.carouselHome{
+    height: 10%;
+}

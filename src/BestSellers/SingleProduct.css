@@ -1,0 +1,16 @@
+.singleProduct{
+    width : 100%
+}
+
+.singleProduct img{
+    width: 90%;
+}
+
+.singleProduct button{
+    background-color: #CF4A72;
+    padding: 2.5%;
+    width: 90%;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 20%;
+}

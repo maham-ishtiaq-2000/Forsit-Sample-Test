@@ -1,0 +1,66 @@
+.bestSellerHeader{
+    color: #CF4A72;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.bestSellerContainer{
+    width: 90%;
+    margin: auto;
+    height: 100%;
+    
+}
+
+.adsDiv{
+    padding: 1%;
+}
+
+.adsDiv img{
+    margin-bottom: 20%;
+}
+
+.productsDiv{
+    padding: 1%;
+    background-color: white;
+    margin-top: 1%;
+    border : 1px;
+    border-style: solid;
+    border-color: #CF4A72;
+    border-width: 2px;
+    padding: 1%;
+    background-color:#f9e3ea ;
+}
+
+
+
+.bestSellerItems{
+    color: #CF4A72;
+    font-size: 20px;
+}
+
+.bestSellerDescp{
+    margin-left: 4%;
+}
+
+.filterButton{
+    width: 15%;
+    background-color: #CF4A72;
+    font-weight: bold;
+    border : 1px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: grey;
+    margin-left: 48%;
+    color: white;
+}
+
+.dropDownElem{
+    text-decoration: underline;
+}
+
+.custom-container {
+    max-width: 1200px; /* Adjust as needed */
+    margin: 0 auto;
+  }

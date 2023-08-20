@@ -1,0 +1,95 @@
+.headerContainer{
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #CF4A72;
+    border-left: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    border-color: red;
+}
+
+.headerLogo img{
+    margin-top: 2%;
+}
+
+
+.borderLink{
+    height: 50px;
+    border : 1px;
+    border-style: solid;
+    border-left: 0px;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-color: grey;
+    border-width: 2px;
+}
+
+.headerLinks{
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+.headerLinks li a:hover{
+    color: grey;
+}
+
+.headerSignUp{
+    background-color: #CF4A72;
+    color: white;
+}
+
+.headerRight{
+    padding-top: 1%;
+    padding-right: 5%;
+}
+
+.headerShoppingCart{
+    padding: 20px;
+    width: 250px;
+    border : 2px;
+    border-style: solid;
+    border-color: grey;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+
+.headerShoppingCart h5{
+    color: #CF4A72;
+    font-weight: bold;
+}
+
+.headerContainer p{
+    color: #CF4A72;
+}
+
+.headerShoppingCart button{
+    background-color: #CF4A72;
+    color: white;
+    padding: 7%;
+    margin-left: 20%;
+    border : 2px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 15px;
+}
+
+.headerMakeupProducts{
+    width: 500px;
+    color: black;
+    padding: 20%;
+    border: 2px;
+    border-style: solid;
+    border-color: grey;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+
+.makeUpLists ul{
+    text-decoration: underline;
+}
+
+.makeUpLists li{
+    list-style: none;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
