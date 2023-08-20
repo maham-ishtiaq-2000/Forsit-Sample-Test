@@ -1,10 +1,13 @@
-import React from "react";
+import React,{useEffect} from "react";
 import Header from "../Header/Header";
 import logo from '../logo2.jpg';
 import BestSellers from "../BestSellers/BestSellers";
 import './Home.css';
 
 const Home = () =>{
+    useEffect(() => {
+      alert("You can access comment page while pressing Comment in header and Home page while pressing the logo of the header")
+    },[])
     return(
         <>
           <Header></Header>
